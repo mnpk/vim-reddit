@@ -4,7 +4,7 @@ endif
 
 syn match AlienEye /●/
 highlight AlienEye ctermfg=202 guifg=#ff4500
-syn match Header /\/r\/programming.*$/
+syn match Header /http:\/\/www\.reddit\.com\/r\/.*$/
 highlight Header ctermfg=153 guifg=#cee3f8
 
 " highlight link info as a comment
