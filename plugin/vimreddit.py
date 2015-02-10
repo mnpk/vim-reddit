@@ -44,8 +44,8 @@ def vim_reddit(sub):
     vim.command('setlocal noswapfile')
     vim.command('setlocal buftype=nofile')
 
-    bufwrite('    ┌─○')
-    bufwrite(' ( ●  ●)  r e d d i t')
+    bufwrite('    ┌─o')
+    bufwrite(' ((•  •))  r e d d i t')
     bufwrite(' http://www.reddit.com/r/' + sub)
     bufwrite('')
 
