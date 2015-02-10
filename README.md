@@ -2,9 +2,8 @@
 
 Browse [reddit](http://www.reddit.com) inside Vim!
 
+Heavily inspired (and forked) from [vim-hackernews](https://github.com/ryanss/vim-hackernews).
 ![subreddit home](https://raw.githubusercontent.com/mnpk/vim-reddit/master/vim-reddit-home.png)
-
-Heavily inspired (and forked) from [vim-hackernews](https://github.com/ryanss/vim-hackernews))
 
 ## usage
 
